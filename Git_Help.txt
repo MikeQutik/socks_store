@@ -1,6 +1,10 @@
 repository_name: socks_store
 
-git init - инициализировать репозиторий
+git init - инициализировать репозиторий;
+git add -A - отследить все файлы;
+git commit -m "name" - коммит;
+git branch -M name - переименовать ветку;
+git checkout -b название - создать ветку
 
 
 
