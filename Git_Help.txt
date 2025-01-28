@@ -1,0 +1,7 @@
+repository_name: socks_store
+
+git init - инициализировать репозиторий
+
+
+
+
